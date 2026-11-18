@@ -1,2 +1,2 @@
-# python_projects
-contains python project,ML and AI
+# python projects
+Contains python projects, data analytics, ML and AI
